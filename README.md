@@ -19,5 +19,24 @@ O projeto é composto pelos seguintes arquivos principais:
 
 
 ### Deploy
-https://desafio-tecnico-peach.vercel.app/home.html 
-https://desafio-tecnico-peach.vercel.app/pokedex.html
+- https://desafio-tecnico-peach.vercel.app/home.html 
+- https://desafio-tecnico-peach.vercel.app/pokedex.html
+
+
+### Imagens responsividade
+
+<div align="center">
+
+<img src="./images/pokedex-lista.png" width="600"/>
+
+<img src="./images/home-desktop.png"  width="600"/>
+
+<img src="./images/mobile-pokedex.jpeg" width="600"/>
+
+<img src="./images/mobile-home.jpeg"  width="600"/>
+
+<img src="./images/tablet-pokedex.png"  width="600"/>
+
+<img src="./images/tablet-home.png"  width="600"/>
+
+</div>
