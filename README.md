@@ -19,4 +19,5 @@ O projeto é composto pelos seguintes arquivos principais:
 
 
 ### Deploy
-https://
+https://desafio-tecnico-peach.vercel.app/home.html 
+https://desafio-tecnico-peach.vercel.app/pokedex.html
